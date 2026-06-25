@@ -128,7 +128,9 @@ Training was stopped automatically using EarlyStopping to reduce overfitting and
   <img src="assets/training_performance.png" alt="Training Performance">
 </div>
 
+
 ### Confusion Matrix
+
 
 <div align="center">
   <img src="assets\confusion_matrix.png" alt="Training Performance">
