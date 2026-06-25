@@ -131,11 +131,14 @@ Training was stopped automatically using EarlyStopping to reduce overfitting and
 
 ### Confusion Matrix
 
-
 <div align="center">
-  <img src="assets\confusion_matrix.png" alt="Training Performance">
+  <img src="assets/confusion_matrix.png" alt="Confusion Matrix">
 </div>
+
+---
+
 ### Classification Report
+
 
 | Emotion  | F1 Score |
 | -------- | -------- |
